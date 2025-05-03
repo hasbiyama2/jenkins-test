@@ -5,7 +5,7 @@ from datetime import timezone, timedelta
 current_time = datetime.now()
 
 # Print a welcoming message
-print("Hell, User! Welcome!")
+print("Hello, User! Welcome!")
 
 # Print the current date and time
 # Convert the current time to GMT+7
